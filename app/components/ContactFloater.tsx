@@ -9,7 +9,7 @@ export default function ContactFloater() {
         {
             emoji: "📍",
             icon:"",
-            fact: "Taipei, Taiwan"
+            fact: "Pittsburgh, United States"
           },
       {
         emoji: "📧",
@@ -26,9 +26,9 @@ export default function ContactFloater() {
       {
         emoji: "📞",
         icon:"",
-        fact: "(+886) 900751036", 
+        fact: "(+1) 412-214-2856", 
         copyable: true, 
-        copyItem: "0900751036"
+        copyItem: "412-214-2856"
       }
       // Add more personal facts
     ];

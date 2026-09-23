@@ -25,10 +25,18 @@ const defaultExperiences: ProfessionalExperience[] = [
         role: "Technical Solution Engineer Intern",
         company: "Appier",
         startDate: "Dec. 2025",
-        endDate: "Present",
+        endDate: "Jul. 2026",
         location: "Taipei, Taiwan",
         summary:
-            "Technical problem solving for our products. Optimizing internal use agent for database retrieval.",
+            `As a Technical Solution Engineer Intern at Appier, I worked on data-driven 
+            solutions for in-app news push and advertising automation, supporting both 
+            technical development and customer-facing problem solving. I managed and 
+            optimized databases, troubleshot technical issues for customers, and 
+            developed an internal database agent to automate data-related workflows. 
+            I also generated and processed over 1 million mock data records to test 
+            and validate the agent’s performance and reliability, gaining experience 
+            in data engineering, automation, and translating business requirements into 
+            scalable technical solutions.`,
         responsibilities: [
             ""
         ],
