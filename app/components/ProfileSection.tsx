@@ -43,6 +43,20 @@ export default function ProfileSection() {
       <div className="w-full">
         <h3 className="font-semibold text-2xl mb-3">Education</h3>
         <div className="h-px bg-gray-200 mb-6" />
+      {<div className="flex items-center gap-6 bg-gray-50 dark:bg-gray-800 p-4 rounded-lg mt-4">
+        <Image
+            src="/cmu_logo.png"
+            alt="Carnegie Mellon University Logo"
+            width={70}
+            height={70}
+            className="object-contain"
+          />
+          <div>
+            <p className="font-medium">Carnegie Mellon University</p>
+            <p className="text-gray-600">Master of Computational Data Science</p>
+            <p className="text-sm text-gray-500">School of Computer Science</p>
+          </div>
+        </div>}
         <div className="flex items-center gap-6 bg-gray-50 dark:bg-gray-800 p-4 rounded-lg">
           <Image
             src="/ntu-logo.png"  // Make sure to place your NTU logo in the public folder
